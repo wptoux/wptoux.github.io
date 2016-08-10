@@ -1,9 +1,0 @@
----
-layout: post
-title:  "秋风感怀"
-date:   2015-10-26 21:18:36 +0800
-categories: jekyll update
----
-### 秋雨迎霜至，秋风落叶迟  
-
-### 明月张弦时，竞夜起秋思
